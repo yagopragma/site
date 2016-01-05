@@ -9,3 +9,11 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
 
 </asp:Content>
+<html>
+<head>
+<meta charset="UTF-8">
+    <title> Meu Site </title>
+</head>
+<body>
+</body>
+</html>
